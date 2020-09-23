@@ -27,8 +27,8 @@
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-<tag> <!-- start tag -->
+<!-- <tag> start tag -->
 
 <!-- anything inside here is considered to be inside the tag -->
 
-</tag> <!-- end tag -->
+<!-- </tag> end tag -->
